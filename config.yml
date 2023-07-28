@@ -1,0 +1,8 @@
+files:
+  smtp_file: "./output/smtp.txt"
+  valid_file: "./output/valid.txt"
+  invalid_file: "./output/invalid.txt"
+
+config:
+  threading : 50
+  email_to_send_result: "deadpoolsmtp@gmail.com"
