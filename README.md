@@ -35,7 +35,7 @@ files:
 
 config:
   threading: 50
-  email_to_send_result: "deadpoolsmtp@gmail.com"
+  email_to_send_result: ""
 ```
 
 ## Explanation of configuration options
